@@ -1,0 +1,14 @@
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\bin\Debug\net6.0\MercadinhoKarl.exe
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\bin\Debug\net6.0\MercadinhoKarl.deps.json
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\bin\Debug\net6.0\MercadinhoKarl.runtimeconfig.json
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\bin\Debug\net6.0\MercadinhoKarl.dll
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\bin\Debug\net6.0\MercadinhoKarl.pdb
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.AssemblyInfoInputs.cache
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.AssemblyInfo.cs
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.csproj.CoreCompileInputs.cache
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.dll
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\refint\MercadinhoKarl.dll
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.pdb
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\MercadinhoKarl.genruntimeconfig.cache
+C:\Users\Websis\Documents\Curso_csharp\Formacao\Karlitus.feature\MeusCodigos\MercadinhoKarl\MercadinhoKarl\obj\Debug\net6.0\ref\MercadinhoKarl.dll
